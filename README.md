@@ -1,1 +1,4 @@
-# phpdatabasecontrol
+# php数据库工具 
+由SYSR@M开发 Warning！警告 投入生产环境中请注意修复部分漏洞！
+该面板极其简陋 排版统统没有 背景也没有 可谓超级轻量 超级简洁 
+有想加的功能就提起Lssues bug的话呢，我时不时看看
